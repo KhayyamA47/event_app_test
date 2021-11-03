@@ -5,7 +5,7 @@ import 'package:event_app_test/util/localization.dart';
 import 'package:event_app_test/widgets/backButton.dart';
 import 'package:event_app_test/widgets/commonButton.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class CreateNewPasswordPage extends StatefulWidget {
   @override

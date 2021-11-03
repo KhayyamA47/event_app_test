@@ -30,7 +30,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 import 'package:contacts_service/contacts_service.dart';
 
 class CreateAccountPage extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:event_app_test/pages/verify/components/count_and_resend.dart';
 import 'package:flutter/material.dart';
 import 'package:pin_entry_text_field/pin_entry_text_field.dart';
-import 'package:sizer/sizer.dart';
+
 
 class OtpInput extends StatefulWidget {
 

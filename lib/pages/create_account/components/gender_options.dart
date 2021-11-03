@@ -4,7 +4,7 @@ import 'package:event_app_test/widgets/itemWithCheckbox.dart';
 import 'package:event_app_test/widgets/separator_line.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 
 class GenderOptions extends StatefulWidget {

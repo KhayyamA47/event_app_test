@@ -1,6 +1,6 @@
 import 'package:event_app_test/util/constants.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class TextFieldWidget extends StatelessWidget {
   final TextEditingController textEditingController;

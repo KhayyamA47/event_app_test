@@ -3,7 +3,7 @@ import 'package:event_app_test/widgets/button.dart';
 import 'package:flutter/material.dart';
 import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/widgets/text.dart';
-import 'package:sizer/sizer.dart';
+
 class TipsList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

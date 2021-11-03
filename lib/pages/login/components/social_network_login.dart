@@ -3,7 +3,7 @@ import 'package:event_app_test/widgets/buttonWithIcon.dart';
 import 'package:event_app_test/widgets/circleLogo.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class SocialNetworkButtons extends StatelessWidget {
   @override

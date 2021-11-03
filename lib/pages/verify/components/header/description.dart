@@ -2,7 +2,7 @@ import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/util/localization.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class HeaderDescription extends StatelessWidget {
   final String mail;

@@ -2,7 +2,7 @@ import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/util/localization.dart';
 import 'package:event_app_test/widgets/textField.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class Inputs extends StatelessWidget {
   final TextEditingController usernameController;

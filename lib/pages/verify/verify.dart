@@ -11,7 +11,7 @@ import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/util/util.dart';
 import 'package:event_app_test/widgets/overlay_loader.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class VerifyPage extends StatefulWidget {
   final RegisterObject registerObject;

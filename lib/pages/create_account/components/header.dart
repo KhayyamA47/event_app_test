@@ -3,7 +3,7 @@ import 'package:event_app_test/util/localization.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:event_app_test/widgets/textButton.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class Header extends StatelessWidget {
   @override

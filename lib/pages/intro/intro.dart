@@ -10,7 +10,7 @@ import 'package:event_app_test/widgets/button.dart';
 import 'package:event_app_test/widgets/buttonWithIcon.dart';
 import 'package:event_app_test/widgets/overlay_loader.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class IntroPage extends StatefulWidget {
   @override

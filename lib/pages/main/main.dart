@@ -10,7 +10,7 @@ import 'package:event_app_test/widgets/separator_line.dart';
 import 'package:event_app_test/widgets/slidingUpPanel.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 class MainPage extends StatefulWidget {
   @override

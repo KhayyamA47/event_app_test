@@ -2,7 +2,7 @@ import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/util/localization.dart';
 import 'package:event_app_test/widgets/text.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 class NameAndDescription extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

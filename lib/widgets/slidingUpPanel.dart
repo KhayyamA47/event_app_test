@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
-import 'package:sizer/sizer.dart';
+
 
 class SlidingPanel extends StatelessWidget {
   final double maxHeight, minHeight;

@@ -6,7 +6,7 @@ import 'package:event_app_test/pages/main/home/components/tips/tips.dart';
 import 'package:event_app_test/util/constants.dart';
 import 'package:event_app_test/util/localization.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 import 'components/header.dart';
 

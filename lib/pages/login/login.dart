@@ -15,7 +15,7 @@ import 'package:event_app_test/widgets/textField.dart';
 import 'package:event_app_test/widgets/titleAndDescription.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:sizer/sizer.dart';
+
 
 import 'components/social_network_login.dart';
 
